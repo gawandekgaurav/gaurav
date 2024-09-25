@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
 	
+	
 	cout<<"Welcome to c++";
 	int no1=100;
 	cout<<"no1"<<no1<<endl;;
